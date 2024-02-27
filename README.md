@@ -3,6 +3,10 @@
 This is my updated resume using HTML and CSS. 
 
 
-### CSS
+#### CSS
 
-I used CSS to align the resume in a way that would be very easy clear and concise.
+I used CSS to align the resume in a way that would be very clear and concise.
+
+#### HTML
+
+HTML to type out the resume using a copy of my resume from a word document. 
