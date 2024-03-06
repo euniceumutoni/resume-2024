@@ -14,4 +14,4 @@ HTML to type out the resume using a copy of my resume from a Word document.
 
 #### To come
 
-Check out my portfolio repository for a nicer resume. 
+Check out my portfolio repository! 
